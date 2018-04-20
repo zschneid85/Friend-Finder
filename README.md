@@ -20,7 +20,7 @@ end.
 ##     Demo
 ## 
 	*Friend Finder* is deployed to Heroku. Please check it out
-[here](https://immense-sierra-78314.herokuapp.com/survey).
+[Demo](https://immense-sierra-78314.herokuapp.com/survey).
 
 ##     Installation
 ## 
