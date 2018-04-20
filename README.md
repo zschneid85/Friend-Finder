@@ -13,9 +13,8 @@ difference for all ten questions combined.
 	*Friend Finder* application is meant to simulate a simple dating
 app. The application is implemented using a
 [Node.js](https://nodejs.org/en/) and
-[Express](https://expressjs.com/) server on the back end and the
-CSS framework on the front
-end.
+[Express](https://expressjs.com/) server on the bac kend and HTML with CSS on the front end.
+
 
 ##     Demo
 ## 
