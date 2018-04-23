@@ -19,7 +19,7 @@ app. The application is implemented using a
 ##     Demo
 ## 
 	*Friend Finder* is deployed to Heroku. Please check it out
-[Demo](https://immense-sierra-78314.herokuapp.com/survey).
+[Demo](https://immense-sierra-78314.herokuapp.com/).
 
 ##     Installation
 ## 
